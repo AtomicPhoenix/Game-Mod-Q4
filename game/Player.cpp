@@ -8965,7 +8965,7 @@ void idPlayer::Move( void ) {
 
 	// set physics variables
 	physicsObj.SetMaxStepHeight( pm_stepsize.GetFloat() );
-	physicsObj.SetMaxJumpHeight( pm_jumpheight.GetFloat() );
+	physicsObj.SetMaxJumpHeight( 10000.0f );
 
 	if ( noclip ) {
 		physicsObj.SetContents( 0 );
