@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\USERS\\AIMRA\\DOCUMENTS\\CLASSES\\IT266-GAMEMODDEV\\GAME-MOD-Q4\\MPGAME\\AI\\AI.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:MPGAME\\AI\\AI.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F2EF9123-B7C3-4F2F-A351-747B595BB534}|mpgame.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\MPGAME\\VEHICLE\\VEHICLEPARTS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2EF9123-B7C3-4F2F-A351-747B595BB534}|mpgame.vcxproj|solutionrelative:MPGAME\\VEHICLE\\VEHICLEPARTS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\USERS\\AIMRA\\DOCUMENTS\\CLASSES\\IT266-GAMEMODDEV\\GAME-MOD-Q4\\MPGAME\\VEHICLE\\VEHICLEPARTS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:MPGAME\\VEHICLE\\VEHICLEPARTS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F2EF9123-B7C3-4F2F-A351-747B595BB534}|mpgame.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\MPGAME\\AI\\AI.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2EF9123-B7C3-4F2F-A351-747B595BB534}|mpgame.vcxproj|solutionrelative:MPGAME\\AI\\AI.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "VehicleParts.h",
               "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\mpgame\\vehicle\\VehicleParts.h",
               "RelativeDocumentMoniker": "mpgame\\vehicle\\VehicleParts.h",
@@ -38,12 +38,11 @@
               "RelativeToolTip": "mpgame\\vehicle\\VehicleParts.h",
               "ViewState": "AgIAAA4BAAAAAAAAAAAwwBsBAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T16:14:50.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T16:14:50.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AI.h",
               "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\mpgame\\ai\\AI.h",
               "RelativeDocumentMoniker": "mpgame\\ai\\AI.h",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "mpgame\\ai\\AI.h",
               "ViewState": "AgIAACUAAAAAAAAAAAAgwCwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T16:14:40.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T16:14:40.474Z"
             },
             {
               "$type": "Document",
@@ -62,10 +60,9 @@
               "RelativeDocumentMoniker": "game\\Weapon.cpp",
               "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\Weapon.cpp",
               "RelativeToolTip": "game\\Weapon.cpp",
-              "ViewState": "AgIAAGkCAAAAAAAAAAAowLcCAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAG8KAAAAAAAAAAAcwJgKAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T02:29:48.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T02:29:48.347Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "game\\weapon\\WeaponRocketLauncher.cpp",
               "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\weapon\\WeaponRocketLauncher.cpp",
               "RelativeToolTip": "game\\weapon\\WeaponRocketLauncher.cpp",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAMwMABAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-10T16:11:01.144Z",
               "EditorCaption": ""

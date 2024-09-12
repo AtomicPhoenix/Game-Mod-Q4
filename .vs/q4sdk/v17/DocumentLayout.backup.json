@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\weapon\\WeaponRocketLauncher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\weapon\\WeaponRocketLauncher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\gamesys\\SysCmds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\gamesys\\SysCmds.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F2EF9123-B7C3-4F2F-A351-747B595BB534}|mpgame.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\MPGAME\\VEHICLE\\VEHICLEPARTS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2EF9123-B7C3-4F2F-A351-747B595BB534}|mpgame.vcxproj|solutionrelative:MPGAME\\VEHICLE\\VEHICLEPARTS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\USERS\\AIMRA\\DOCUMENTS\\CLASSES\\IT266-GAMEMODDEV\\GAME-MOD-Q4\\RENDERER\\RENDERWORLD.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:RENDERER\\RENDERWORLD.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\gamesys\\SaveGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\gamesys\\SaveGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\gamesys\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57430}|game.vcxproj|solutionrelative:game\\gamesys\\Class.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57400}|idlib.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\idlib\\math\\Simd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{49BEC5C6-B964-417A-851E-808886B57400}|idlib.vcxproj|solutionrelative:idlib\\math\\Simd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F2EF9123-B7C3-4F2F-A351-747B595BB534}|mpgame.vcxproj|C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\MPGAME\\AI\\AI.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2EF9123-B7C3-4F2F-A351-747B595BB534}|mpgame.vcxproj|solutionrelative:MPGAME\\AI\\AI.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,20 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Player.cpp",
-              "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\Player.cpp",
-              "RelativeDocumentMoniker": "game\\Player.cpp",
-              "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\Player.cpp",
-              "RelativeToolTip": "game\\Player.cpp",
-              "ViewState": "AgIAAN4iAAAAAAAAAAAcwAcjAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T02:32:49.182Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "VehicleParts.h",
+              "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\mpgame\\vehicle\\VehicleParts.h",
+              "RelativeDocumentMoniker": "mpgame\\vehicle\\VehicleParts.h",
+              "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\mpgame\\vehicle\\VehicleParts.h",
+              "RelativeToolTip": "mpgame\\vehicle\\VehicleParts.h",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAwwBsBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T16:14:50.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AI.h",
+              "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\mpgame\\ai\\AI.h",
+              "RelativeDocumentMoniker": "mpgame\\ai\\AI.h",
+              "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\mpgame\\ai\\AI.h",
+              "RelativeToolTip": "mpgame\\ai\\AI.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T16:14:40.474Z"
             },
             {
               "$type": "Document",
@@ -61,74 +60,22 @@
               "RelativeDocumentMoniker": "game\\Weapon.cpp",
               "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\Weapon.cpp",
               "RelativeToolTip": "game\\Weapon.cpp",
-              "ViewState": "AgIAAI8CAAAAAAAAAAAowI8CAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAG8KAAAAAAAAAAAcwJgKAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-10T02:29:48.347Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RenderWorld.h",
-              "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\renderer\\RenderWorld.h",
-              "RelativeDocumentMoniker": "renderer\\RenderWorld.h",
-              "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\renderer\\RenderWorld.h",
-              "RelativeToolTip": "renderer\\RenderWorld.h",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAmwGUAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-10T02:19:43.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SysCmds.cpp",
-              "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\gamesys\\SysCmds.cpp",
-              "RelativeDocumentMoniker": "game\\gamesys\\SysCmds.cpp",
-              "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\gamesys\\SysCmds.cpp",
-              "RelativeToolTip": "game\\gamesys\\SysCmds.cpp",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAmwK0AAAAtAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "WeaponRocketLauncher.cpp",
+              "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\weapon\\WeaponRocketLauncher.cpp",
+              "RelativeDocumentMoniker": "game\\weapon\\WeaponRocketLauncher.cpp",
+              "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\weapon\\WeaponRocketLauncher.cpp",
+              "RelativeToolTip": "game\\weapon\\WeaponRocketLauncher.cpp",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAMwMABAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T02:19:37.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SaveGame.cpp",
-              "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\gamesys\\SaveGame.cpp",
-              "RelativeDocumentMoniker": "game\\gamesys\\SaveGame.cpp",
-              "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\gamesys\\SaveGame.cpp",
-              "RelativeToolTip": "game\\gamesys\\SaveGame.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T02:19:33.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class.cpp",
-              "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\gamesys\\Class.cpp",
-              "RelativeDocumentMoniker": "game\\gamesys\\Class.cpp",
-              "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\game\\gamesys\\Class.cpp",
-              "RelativeToolTip": "game\\gamesys\\Class.cpp",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA0AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T02:19:26.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Simd.cpp",
-              "DocumentMoniker": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\idlib\\math\\Simd.cpp",
-              "RelativeDocumentMoniker": "idlib\\math\\Simd.cpp",
-              "ToolTip": "C:\\Users\\aimra\\Documents\\Classes\\IT266-GameModDev\\Game-Mod-Q4\\idlib\\math\\Simd.cpp",
-              "RelativeToolTip": "idlib\\math\\Simd.cpp",
-              "ViewState": "AgIAAOQFAAAAAAAAAAAlwO8FAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-10T02:17:45.705Z",
+              "WhenOpened": "2024-09-10T16:11:01.144Z",
               "EditorCaption": ""
             }
           ]
