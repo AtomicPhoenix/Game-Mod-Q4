@@ -144,6 +144,9 @@ public:
 	virtual void		SpectatorCycle				( void ) { }
 	virtual bool		NoFireWhileSwitching		( void ) const { return false; }
 
+	void				MarkPosition(void);
+	void		LaunchAllAttacks(bool altFire, int num_attacks, float spread, float fuseOffset, float power);
+
 	void				Save						( idSaveGame *savefile ) const;
 	void				Restore						( idRestoreGame *savefile );
 	virtual void		PreSave						( void );
@@ -211,6 +214,7 @@ public:
 	// Attack
 	bool				PerformAttack				( idVec3& muzzleOrigin, idMat3& muzzleAxis, float dmgPower );
 	void				LaunchProjectiles			( idDict& dict, const idVec3& muzzleOrigin, const idMat3& muzzleAxis, int num_projectiles, float spread, float fuseOffset, float power );
+	void				LaunchProjectilesWithDir(idDict& dict, const idVec3& muzzleOrigin, const idMat3& muzzleAxis, int num_projectiles, float spread, float fuseOffset, float power, idVec3 dir);
 	void				Hitscan						( const idDict& dict, const idVec3& muzzleOrigin, const idMat3& muzzleAxis, int num_hitscans, float spread, float power );
 	void				AlertMonsters				( void );
 
@@ -270,6 +274,12 @@ public:
 	void				UpdateCrosshairGUI			( idUserInterface* gui ) const;
 
 	idMat3				ForeshortenAxis				( const idMat3& axis ) const;
+
+	struct RocketMarker {
+		idVec3 muzzleOrigin;
+		idMat3 muzzleAxis;
+	};
+	idList<RocketMarker> rmList;
 
 	// Script state management
 	struct weaponStateFlags_s {
