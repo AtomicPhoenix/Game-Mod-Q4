@@ -2941,6 +2941,18 @@ void Cmd_BuyItem_f( const idCmdArgs& args ) {
 }
 // RITUAL END
 
+void Cmd_Locate_f(const idCmdArgs& args) {
+	idPlayer* player = gameLocal.GetLocalPlayer();
+	if (!player) {
+		common->Printf("ERROR: Cmd_Locate_f() failed, since GetLocalPlayer() was NULL.\n", player);
+		return;
+	}
+	idVec3 position = player->GetEyePosition();
+	common->Printf("Player is at (%f, %f, %f).\n", position.x, position.y, position.z);
+
+}
+
+
 void Cmd_PlayerEmote_f( const idCmdArgs& args ) {
 	if( gameLocal.GetLocalPlayer() == NULL ) {
 		gameLocal.Warning( "Cmd_Emote_f() - local player is NULL" );
@@ -3232,6 +3244,7 @@ void idGameLocal::InitConsoleCommands( void ) {
 	cmdSystem->AddCommand( "buyMenu",				Cmd_ToggleBuyMenu_f,		CMD_FL_GAME,				"Toggle buy menu (if in a buy zone and the game type supports it)" );
 	cmdSystem->AddCommand( "buy",					Cmd_BuyItem_f,				CMD_FL_GAME,				"Buy an item (if in a buy zone and the game type supports it)" );
 // RITUAL END
+	cmdSystem->AddCommand("locate", Cmd_Locate_f, CMD_FL_GAME, "Find out where we are");
 
 }
 
